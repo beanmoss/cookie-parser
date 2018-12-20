@@ -1,5 +1,5 @@
-unreleased
-==========
+1.4.4 / 2018-12-20
+==================
 
   * perf: normalize `secret` argument only once
 
